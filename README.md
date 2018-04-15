@@ -1,5 +1,5 @@
 # c_rvae
-This repository contains the source code of C-RVAE : Capturing and creating musical structure
+This repository contains the source code of "Convolutional Recurrent Latent Variable model" : Capturing and creating musical structure
 
 # Description
 
